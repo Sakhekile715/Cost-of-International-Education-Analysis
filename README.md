@@ -19,7 +19,7 @@ This Power BI dashboard analyzes the cost of data-related degree programs across
 2. **Program Details**
 3. **Country Comparison**
 
-## Dataset (simulated)
+## Dataset (Kaggle Dataset)
 Converted to ZAR for comparison using mid-2024 exchange rates. Currency conversion logic handled in Power BI.
 
 ## Credits
